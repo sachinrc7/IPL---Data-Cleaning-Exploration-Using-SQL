@@ -8,6 +8,6 @@ The various SQL functions used in this EDA project are:
 - GROUP BY/ORDER BY
 - WHERE/HAVING
 - Aggregate functions (SUM, AVG, etc.)
-- COUNT
+- Windows Function
 - INNER/LEFT JOIN
 - CTEs/Subqueries
